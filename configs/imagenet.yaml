@@ -1,0 +1,6 @@
+execution_name: 'ImageNet'
+dataset_type: 'imagenet'
+path: '<path-to-imagenet>'
+amount: 2048
+batch_size: 32
+num_threads: 12

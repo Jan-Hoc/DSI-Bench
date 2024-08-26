@@ -1,0 +1,8 @@
+suite_name: 'ShapeNet'
+dataset_type: 'shapenet'
+path: '/mydata/fastpointstomesh/firat/projects/ShapeNetCore'
+key: 
+ - 'tower'
+ - 'knife'
+batch_size: 16
+num_threads: 12

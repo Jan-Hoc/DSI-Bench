@@ -1,0 +1,10 @@
+suite_name: 'ICON'
+dataset_type: 'icon'
+path: '/mydata/dlbirhoui/firat/ICON_output/ml_ecrad_ape_R2B05_myrunscript_1year_183min_ecrad_in'
+filename: 'train_10p_10k_ss.h5'
+key:
+ - 'lwflx_up'
+ - 'clc'
+ - 'cosmu0'
+batch_size: 32
+num_threads: 12

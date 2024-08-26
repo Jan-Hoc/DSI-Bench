@@ -1,0 +1,8 @@
+execution_name: 'ShapeNet'
+dataset_type: 'shapenet'
+path: '<path-to-shapenet>'
+key: 
+ - 'tower'
+ - 'knife'
+batch_size: 16
+num_threads: 12

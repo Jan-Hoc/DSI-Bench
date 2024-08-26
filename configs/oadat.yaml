@@ -1,0 +1,9 @@
+execution_name: 'OADAT'
+dataset_type: 'oadat'
+path: '<path-to-oadat>'
+filename: 'SWFD_semicircle_RawBP_1k_ss.h5'
+key:
+  - 'sc_BP'
+  - 'sc,lv128_BP'
+batch_size: 32
+num_threads: 12
